@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-ㅁㅁㅁㅁ 수정함 ~~
-=======
-aaa2 수정함 ~~
->>>>>>> aaa2
-aaaaaaaaaaa
-bbbbbb
-ccccc
+저장소 연결됐나? 
