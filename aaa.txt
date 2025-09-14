@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ㅁㅁㅁㅁ 수정함 ~~
+=======
+aaa2 수정함 ~~
+>>>>>>> aaa2
 aaaaaaaaaaa
 bbbbbb
 ccccc
